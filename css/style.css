@@ -1,0 +1,144 @@
+.q{
+    color: #636060;
+
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: inline-block;
+
+}
+.img1{
+    margin-right: 506px;
+    vertical-align: middle;
+    display: inline-block;
+
+}
+h2{
+    vertical-align: middle;
+}
+.he1{
+    margin-top: 24px;
+    margin-left: 99px;
+    margin-right: 79px;
+    margin-bottom: 18px;
+}
+.h11{
+    margin-right: 50px;
+    width: 52px;
+    height: 20px;
+}
+.h12{
+    margin-right: 52px;
+    width: 87px;
+    height: 20px;
+}
+.h13{
+    width: 129px;
+    height: 20px;
+    margin-right: 50px;
+}
+.h14{
+    width: 134px;
+    height: 20px;
+}
+.div1{
+    height: 606px;
+    width: 100%;
+
+  
+}
+.j{
+    display: inline-block;
+}
+.div5{
+position: relative;
+margin-bottom: 85px;
+}
+.h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    color: #FFF;
+font-family: Helvetica;
+font-size: 79px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.p1 {
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+    color: #FFF;
+font-family: Helvetica;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.divv{
+    width: 235px;
+    margin-left: 80px;
+    margin-right: 20px;
+    margin-bottom: 384px;
+}
+.p2{
+    color: #636060;
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 9px;
+}
+.p3{
+    color: #010101;
+font-family: Helvetica;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 37px;
+}
+.p4{
+    color: #636060;
+font-family: Helvetica;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.div21{
+    width: 286px;
+    position: flex;
+    flex-wrap: wrap;
+    margin-right: 21px;
+}
+.n{
+    display: inline-block;
+    vertical-align: top;
+}
+.h44{
+    color: #343232;
+font-family: Helvetica;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal; 
+margin-top: 23px;
+}
+.p27{
+    color: #636060;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top:9px;
+margin-bottom: 56px;
+}
